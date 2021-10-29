@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4BD642E9272BF06E00A8B4E1 /* LBTASwiftuiFirebaseChatApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BD642E8272BF06E00A8B4E1 /* LBTASwiftuiFirebaseChatApp.swift */; };
-		4BD642EB272BF06E00A8B4E1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BD642EA272BF06E00A8B4E1 /* ContentView.swift */; };
+		4BD642EB272BF06E00A8B4E1 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BD642EA272BF06E00A8B4E1 /* LoginView.swift */; };
 		4BD642ED272BF06F00A8B4E1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4BD642EC272BF06F00A8B4E1 /* Assets.xcassets */; };
 		4BD642F0272BF06F00A8B4E1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4BD642EF272BF06F00A8B4E1 /* Preview Assets.xcassets */; };
 		4BD642FA272BF06F00A8B4E1 /* LBTASwiftuiFirebaseChatTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BD642F9272BF06F00A8B4E1 /* LBTASwiftuiFirebaseChatTests.swift */; };
@@ -36,7 +36,7 @@
 /* Begin PBXFileReference section */
 		4BD642E5272BF06E00A8B4E1 /* LBTASwiftuiFirebaseChat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LBTASwiftuiFirebaseChat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BD642E8272BF06E00A8B4E1 /* LBTASwiftuiFirebaseChatApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LBTASwiftuiFirebaseChatApp.swift; sourceTree = "<group>"; };
-		4BD642EA272BF06E00A8B4E1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		4BD642EA272BF06E00A8B4E1 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		4BD642EC272BF06F00A8B4E1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4BD642EF272BF06F00A8B4E1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4BD642F5272BF06F00A8B4E1 /* LBTASwiftuiFirebaseChatTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LBTASwiftuiFirebaseChatTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -95,7 +95,7 @@
 			isa = PBXGroup;
 			children = (
 				4BD642E8272BF06E00A8B4E1 /* LBTASwiftuiFirebaseChatApp.swift */,
-				4BD642EA272BF06E00A8B4E1 /* ContentView.swift */,
+				4BD642EA272BF06E00A8B4E1 /* LoginView.swift */,
 				4BD642EC272BF06F00A8B4E1 /* Assets.xcassets */,
 				4BD642EE272BF06F00A8B4E1 /* Preview Content */,
 			);
@@ -257,7 +257,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4BD642EB272BF06E00A8B4E1 /* ContentView.swift in Sources */,
+				4BD642EB272BF06E00A8B4E1 /* LoginView.swift in Sources */,
 				4BD642E9272BF06E00A8B4E1 /* LBTASwiftuiFirebaseChatApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
